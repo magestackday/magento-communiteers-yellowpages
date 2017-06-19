@@ -9,12 +9,26 @@ These people offer you their help for free so please be kind and respectful.
 Create a PR on this document with the following information
 
 ```
-[full name]
-ask me about: [subject], [subject], [subject]
-contact me via: [twitter](http://twitter.com/user), [email](mailto:info@domain.com), ... etc
+##### [full name]
+
+_ask me about:_ [subject], [subject], [subject]
+
+_contact me via:_ [twitter](http://twitter.com/user), [email](mailto:info@domain.com), ... etc
+
+----
+
 ```
 
 Try to add yourself in alphabetical order by last name
 
 # THE LIST
 
+### S
+----
+
+##### Sander Mangel
+_ask me about:_ unmagentoing code, headless, magento1 sales, magento1 catalog, slimphp
+
+_contact me via:_ [twitters](http://twitter.com/sandermangel), [email](mailto:ama@sandermangel.nl), [MageSE](https://magento.stackexchange.com/users/50/sander-mangel)
+
+----
