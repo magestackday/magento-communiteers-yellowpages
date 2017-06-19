@@ -1,4 +1,6 @@
-# Magento Communiteers Yellowpages
+# Magento Communiteers Yellowpages 
+powered by ![http://i.imgur.com/5qZpbl3.png](http://imgur.com/5qZpbl3)
+----
 
 We are an open community with, devided amongs us, knowledge about a vast array of topics. The Magento community- AND MageStackDay spirit is to share this knowledge.
 
