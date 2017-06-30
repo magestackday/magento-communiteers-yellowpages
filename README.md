@@ -25,6 +25,18 @@ Try to add yourself in alphabetical order by last name
 
 # THE LIST
 
+---
+
+### L
+----
+
+##### David Lambauer
+
+_ask me about:_ Headles, Magento 2, Clean Code, Magento 2 Testing, Dev Docs, Module Development
+
+_contact me via:_ [twitter](http://twitter.com/DavidLambauer), [email](mailto:mail@davidlambauer.de)
+
+----
 ### H
 ----
 
