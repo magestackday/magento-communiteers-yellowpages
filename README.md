@@ -37,6 +37,15 @@ _ask me about:_ Headles, Magento 2, Clean Code, Magento 2 Testing, Dev Docs, Mod
 _contact me via:_ [twitter](http://twitter.com/DavidLambauer), [email](mailto:mail@davidlambauer.de)
 
 ----
+### H
+----
+
+##### Hauri Marcel
+_ask me about:_ magento 2 import, magento 2 projects, magento 2 in production, clean code
+
+_contact me via:_ [twitter](http://twitter.com/mhauri), [MageSE](https://magento.stackexchange.com/users/2800/mhauri)
+
+----
 
 ### S
 ----
